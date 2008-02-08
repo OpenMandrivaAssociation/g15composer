@@ -5,7 +5,7 @@ Summary:                Scriptable command interface to libg15render drawing fun
 License:                GPL
 Group:                  System/Configuration/Hardware
 URL:                    http://g15tools.sourceforge.net/
-Source0:                http://downloads.sourceforge.net/g15composer-%{version}.tar.bz2
+Source0:                http://downloads.sourceforge.net/g15tools/g15composer-%{version}.tar.bz2
 BuildRequires:          bison
 BuildRequires:          flex
 BuildRequires:          g15daemon_client-devel
