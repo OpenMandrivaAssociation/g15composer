@@ -1,6 +1,6 @@
 Name:                   g15composer
 Version:                3.2
-Release:                %mkrel 4
+Release:                %mkrel 5
 Summary:                Scriptable command interface to libg15render drawing functions
 License:                GPL
 Group:                  System/Configuration/Hardware
