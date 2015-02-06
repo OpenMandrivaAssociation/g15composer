@@ -1,6 +1,6 @@
 Name:                   g15composer
 Version:                3.2
-Release:                5
+Release:                6
 Summary:                Scriptable command interface to libg15render drawing functions
 License:                GPLv2+
 Group:                  System/Configuration/Hardware
