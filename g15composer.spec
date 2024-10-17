@@ -4,7 +4,7 @@ Release:                6
 Summary:                Scriptable command interface to libg15render drawing functions
 License:                GPLv2+
 Group:                  System/Configuration/Hardware
-URL:                    http://g15tools.sourceforge.net/
+URL:                    https://g15tools.sourceforge.net/
 Source0:                http://downloads.sourceforge.net/g15tools/g15composer-%{version}.tar.bz2
 BuildRequires:          bison
 BuildRequires:          flex
